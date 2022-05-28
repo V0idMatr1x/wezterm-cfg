@@ -5,13 +5,9 @@ return {
     hide_tab_bar_if_only_one_tab = true,
   
     -- Color scheme
-    -- https://wezfurlong.org/wezterm/config/appearance.html
-    --
-    -- Dracula
-    -- https://draculatheme.com
-    color_scheme = 'Dracula',
+    color_scheme = 'Batman',
   
-    window_background_opacity = .99,
+    window_background_opacity = .98,
   
     -- Font configuration
     -- https://wezfurlong.org/wezterm/config/fonts.html
